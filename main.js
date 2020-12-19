@@ -1,1 +1,3 @@
-console.log('Hello World!');
+export default (async () => {
+	console.log('Hello World!');
+})();
